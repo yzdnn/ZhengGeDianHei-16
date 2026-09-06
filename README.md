@@ -1,4 +1,4 @@
-# 正格点黑 16 / ZhengGeDianHei16
+# 正格点黑 16 / ZhengGeDianHei-16
 
 <img width="480" height="328" alt="正格点黑 16 横版" src="https://github.com/user-attachments/assets/5e0686a7-bbc8-475d-bdba-3c91d27d6fa5" />
 
@@ -27,6 +27,10 @@
 <img width="540" height="720" alt="3" src="https://github.com/user-attachments/assets/101886d3-9a92-49d6-996b-882ac04377d2" />
 <img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/4eb2b7be-089c-401a-9f62-ba90fe926fe3" />
 <img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/391cae9c-b83f-4cf7-9d3c-faaf0e7ebce4" />
+
+## **～补足～**
+
+本字体的保留名称为「正格点黑 16」「ZhengGeDianHei 16」，发布修改后的字体改名时不得使用以上保留名称。
 
 ## **～联络作者～**
 
